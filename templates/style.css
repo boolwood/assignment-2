@@ -1,0 +1,24 @@
+form{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    
+}
+*{
+    background-color: antiquewhite;
+}
+input, textarea, select{
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #d90c0c;
+    font-size: 16px;
+    width: 30%;
+    
+}
+button{
+     padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #fa0a0a;
+    font-size: 16px;
+    width: 30%;
+}
